@@ -1,0 +1,170 @@
+{
+  "data": {
+    "syncNotes": {
+      "items": [
+        {
+          "id": "d3c43ecb-0238-4124-9687-f38f45e7bced",
+          "text": "sam",
+          "createdAt": "2022-03-08T02:16:58.981Z",
+          "updatedAt": "2022-03-08T02:16:58.981Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646705819009,
+          "_deleted": null
+        },
+        {
+          "id": "8c558181-f804-4c4a-8a9e-a6ba97475eb7",
+          "text": "adf",
+          "createdAt": "2022-03-18T03:03:49.617Z",
+          "updatedAt": "2022-03-18T03:03:49.617Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1647572629646,
+          "_deleted": null
+        },
+        {
+          "id": "2419e0cd-ac6b-4d63-96fb-d00e6b204f68",
+          "text": "t4est",
+          "createdAt": "2022-03-08T01:36:12.135Z",
+          "updatedAt": "2022-03-08T01:36:12.135Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646703372137,
+          "_deleted": null
+        },
+        {
+          "id": "2a6571ce-2311-4b73-9c6b-1b04aec77a86",
+          "text": "one more time",
+          "createdAt": "2022-03-15T13:52:11.385Z",
+          "updatedAt": "2022-03-15T13:52:11.385Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1647352331409,
+          "_deleted": null
+        },
+        {
+          "id": "1eca2d11-0a8a-4577-aef9-8f34e186fc84",
+          "text": "frodo1",
+          "createdAt": "2022-03-08T02:08:36.977Z",
+          "updatedAt": "2022-03-08T02:08:36.977Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646705317000,
+          "_deleted": null
+        },
+        {
+          "id": "c83061d4-f86c-411a-9f39-1aa21f2400f3",
+          "text": "hi",
+          "createdAt": "2022-03-08T01:00:08.050Z",
+          "updatedAt": "2022-03-08T01:00:08.050Z",
+          "owner": "mike-test",
+          "_version": 3,
+          "_lastChangedAt": 1646702584561,
+          "_deleted": true
+        },
+        {
+          "id": "878e7f02-f0d0-48c1-9aa2-360e816fbaf1",
+          "text": "gandalf",
+          "createdAt": "2022-03-15T13:52:55.281Z",
+          "updatedAt": "2022-03-15T13:52:55.281Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1647352375302,
+          "_deleted": null
+        },
+        {
+          "id": "6bd242b7-f3a8-4650-a461-808c69bf2527",
+          "text": "test123",
+          "createdAt": "2022-03-15T12:51:25.775Z",
+          "updatedAt": "2022-03-15T12:51:25.775Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1647348685799,
+          "_deleted": null
+        },
+        {
+          "id": "67d45358-69e5-471c-9999-69fd02029b03",
+          "text": "test 2",
+          "createdAt": "2022-03-08T00:59:16.669Z",
+          "updatedAt": "2022-03-08T00:59:16.669Z",
+          "owner": "mike-test",
+          "_version": 2,
+          "_lastChangedAt": 1646702570206,
+          "_deleted": true
+        },
+        {
+          "id": "a1badfc2-94a8-4403-99b8-3e581dd46639",
+          "text": "frodo",
+          "createdAt": "2022-03-08T02:07:14.043Z",
+          "updatedAt": "2022-03-08T02:07:14.043Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646705234068,
+          "_deleted": null
+        },
+        {
+          "id": "991bfd6a-680e-48d5-9085-da9892c666f4",
+          "text": "top",
+          "createdAt": "2022-03-08T01:19:57.668Z",
+          "updatedAt": "2022-03-08T01:19:57.668Z",
+          "owner": "mike-test",
+          "_version": 2,
+          "_lastChangedAt": 1646702570876,
+          "_deleted": true
+        },
+        {
+          "id": "d88bee19-e92d-4ff9-98de-b2aff23e1b38",
+          "text": "haha",
+          "createdAt": "2022-03-08T01:01:10.013Z",
+          "updatedAt": "2022-03-08T01:01:10.013Z",
+          "owner": "mike-test",
+          "_version": 2,
+          "_lastChangedAt": 1646702571514,
+          "_deleted": true
+        },
+        {
+          "id": "712fd030-eec9-453d-90e2-b378f733d40b",
+          "text": "test",
+          "createdAt": "2022-02-24T02:23:30.523Z",
+          "updatedAt": "2022-02-24T02:23:30.523Z",
+          "owner": "mike-test",
+          "_version": 2,
+          "_lastChangedAt": 1646702572154,
+          "_deleted": true
+        },
+        {
+          "id": "13aeb90b-cb7a-4c91-94c9-6944a2ee7182",
+          "text": "asdf",
+          "createdAt": "2022-03-08T01:13:47.521Z",
+          "updatedAt": "2022-03-08T01:13:47.521Z",
+          "owner": "mike-test",
+          "_version": 2,
+          "_lastChangedAt": 1646702573241,
+          "_deleted": true
+        },
+        {
+          "id": "23e8c064-8754-416e-ba77-53f70103e91e",
+          "text": "test 2",
+          "createdAt": "2022-03-08T00:59:07.625Z",
+          "updatedAt": "2022-03-08T00:59:07.625Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646701147650,
+          "_deleted": null
+        },
+        {
+          "id": "ac6ef26c-ce79-423c-89e5-c038c549db1c",
+          "text": "1234",
+          "createdAt": "2022-03-08T02:06:39.113Z",
+          "updatedAt": "2022-03-08T02:06:39.113Z",
+          "owner": "mike-test",
+          "_version": 1,
+          "_lastChangedAt": 1646705199138,
+          "_deleted": null
+        }
+      ],
+      "nextToken": null,
+      "startedAt": 1647573210933
+    }
+  }
+}
